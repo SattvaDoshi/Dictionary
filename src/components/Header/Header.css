@@ -1,0 +1,13 @@
+.title{
+    font-size: 5em;
+    text-align: center;
+    margin: 17px 0 22px 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 100%;
+}
